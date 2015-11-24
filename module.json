@@ -1,0 +1,15 @@
+{
+  "name": "ci-auth-fake2",
+  "version": "1.0.0",
+  "description": "Create a private repo to trigger yotta login for GitHub",
+  "keywords": [
+    "mbed"
+  ],
+  "author": "markus.becker@tridonic.com",
+  "license": "Apache-2.0",
+  "extraIncludes": [],
+  "dependencies": {
+  },
+  "targetDependencies": {},
+  "bin": "./source/"
+}
